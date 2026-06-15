@@ -1,0 +1,6 @@
+{
+  "name": "APIForge",
+  "description": "A high-performance, developer-first Browser-Based API Playground with request creators, multi-format body parsers, variables substituting, and request history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
